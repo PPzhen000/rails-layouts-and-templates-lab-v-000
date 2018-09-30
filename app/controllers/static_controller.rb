@@ -1,4 +1,4 @@
-class StaticController 
+class StaticController
 
 
 end 
